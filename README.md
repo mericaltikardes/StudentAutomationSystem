@@ -2,7 +2,7 @@
 
 This is a simple student management system written in C. It allows users to add, search, and delete student records.
 
-Options to choose
+<h2>Options to choose</h2>
 
     To Create an Index File, press 1
     To Add a New Record to Data File, press 2
